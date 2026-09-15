@@ -23,6 +23,7 @@ setTimeout
 clearTimeout
 async/await
 for loop*/
+//added comment here
 //solution
 async function fetchWithBackoff(url) {
   const maxAttempts = 4;
